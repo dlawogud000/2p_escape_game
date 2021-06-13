@@ -1,0 +1,36 @@
+﻿  group_project.cpp
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(209,22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(209,45): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(213,22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(213,45): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(217,22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(217,45): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(221,22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(221,45): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(229,26): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(229,55): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(233,26): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(233,55): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(438,22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(442,22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(450,24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(454,24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(458,24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(462,24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(470,24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(474,24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(479,24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(483,24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(519,15): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(519,41): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(520,15): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(520,41): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(801,15): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(801,41): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(802,15): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh\source\repos\group_project (2)\group_project\group_project.cpp(802,41): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  group_project.vcxproj -> C:\Users\jh\source\repos\group_project (2)\Release\group_project.exe
